@@ -1,0 +1,9 @@
+# How to Run the Project
+1- first go to code and download the souce file in zip file
+2- then extract the file and paste to the xampp folder in htdocs
+3- then open xampp application to run Apache server and mysql server
+4- then go to write localhost in browser and create a database name shopping_product
+5- and after creating database name then import the databse file under the phpmyadmin panel
+6- and then refresh it and now go to vs code and open Project folder and open new terminal
+7- then write a command to run the project in php artisan serve after run this look like http://127.0.0.1:8000
+8- but we gave exact url to run our project http://127.0.0.1:8000/products and the Project run Sucessfully !
