@@ -6,4 +6,4 @@
 5- and after creating database name then import the databse file under the phpmyadmin panel
 6- and then refresh it and now go to vs code and open Project folder and open new terminal
 7- then write a command to run the project in php artisan serve after run this look like http://127.0.0.1:8000
-8- but we gave exact url to run our project http://127.0.0.1:8000/products and the Project run Sucessfully !
+8- but we gave exact url to run our project http://127.0.0.1:8000/products and the Project run Sucessfully!
